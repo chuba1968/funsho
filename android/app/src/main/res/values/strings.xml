@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Funsho and Partners on Inheritance laws in Benin</string>
+    <string name="title_activity_main">Funsho and Partners on Inheritance laws in Benin</string>
+    <string name="package_name">com.funpartners.nba</string>
+    <string name="custom_url_scheme">com.funpartners.nba</string>
+</resources>
